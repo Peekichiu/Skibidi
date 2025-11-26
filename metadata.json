@@ -1,0 +1,5 @@
+{
+  "name": "Skibidi Priority Scheduler",
+  "description": "An intelligent scheduler for first-year students that automatically prioritizes academic and personal activities based on importance and deadlines, featuring AI-powered workload analysis.",
+  "requestFramePermissions": []
+}
